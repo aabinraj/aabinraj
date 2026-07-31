@@ -53,12 +53,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabinraj&show_icons=true&theme=tokyonight&count_private=true" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabinraj&theme=tokyonight" alt="streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aabinraj&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=aabinraj&theme=tokyonight" alt="streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabinraj&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabinraj&layout=compact&theme=tokyonight&cache_seconds=1800" alt="top langs" />
 </p>
 
 ---
